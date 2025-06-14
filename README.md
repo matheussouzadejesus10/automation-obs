@@ -1,38 +1,64 @@
-# 🎥 automation-obs App de VTuber com base para gravação 
+# 🎥 Automation-OBS
 
-Este é um aplicativo leve e prático para quem quer fazer gravações como VTuber no OBS com controles simples e personalização visual. Ideal para criadores de conteúdo que desejam agilizar suas produções com recursos básicos e funcionais.
+**Automation-OBS** é um aplicativo leve e prático feito para gravações estilo VTuber, com animações simples e controle via teclado, mouse ou ponteiro virtual.
 
-📦 Instalação
-🔹 Windows
-Faça o download da versão para Windows clicando aqui (adicione o link de download do executável quando disponível).
+![Preview](https://raw.githubusercontent.com/matheussouzadejesus10/automation-obs/refs/heads/main/Captura%20de%20tela%202025-06-14%20092949.png)
 
-🔹 Outros Sistemas (macOS, Linux)
-Versão Web: Acessar versão Web (adicione o link para a versão web quando disponível)
+## 🚀 Recursos principais
 
-🔧 Manual:
+- Controle facial (3 expressões)
+- Efeito de zoom com um toque
+- Mãos animadas com teclas A/D
+- Controle por mouse ou manual (X/Y)
+- Editor de aparência: cabelo e camisa
+- Botão para ocultar/exibir o menu
 
-🎮 Controles
-Tecla	Ação
-1, 2, 3	Troca as expressões faciais do personagem
-Espaço	Zoom de câmera para perto
-A / D	Mostra as mãos (esquerda/direita)
+## 🖥️ Instalação
 
-🖱️ Botões e Interface
-🟢 Botão 1: Movimento por Mouse
-"Usar ponteiro do mouse para mover o personagem"
-Alterna entre mover o personagem com o mouse ou manualmente com valores de x e y ajustáveis pela orientação do usuário.
-![print1](https://raw.githubusercontent.com/matheussouzadejesus10/automation-obs/refs/heads/main/Captura%20de%20tela%202025-06-14%200929492.png)
+### Windows
+1. Baixe o zip: [Download para Windows](https://github.com/matheussouzadejesus10/automation-obs/releases/tag/app) <!-- substitua pelo link real -->
+2. Extraia (se zipado) e execute o `.exe`.
 
+### Web (MacOS/Linux)
+Acesse a versão web: [Abrir no navegador](#) <!-- substitua pelo link real -->
 
-🎨 Botão 2: Editor de Visual
-"Editor" – Mudar cor da camisa e do cabelo
-Permite personalizar as cores do personagem diretamente pelo menu.
+## 🎮 Controles
 
-![print2](https://raw.githubusercontent.com/matheussouzadejesus10/automation-obs/refs/heads/main/Captura%20de%20tela%202025-06-14%200929493.png)
+| Tecla | Função |
+|-------|--------|
+| `1`, `2`, `3` | Troca de expressões do personagem |
+| `Espaço` | Zoom (efeito de aproximação) |
+| `A` e `D` | Ativa as mãos |
+| **Botão 1 ou a tecla"5"** | Alterna entre controle por mouse ou coordenadas |
+| **Botão 2** | Abre o editor de aparência |
+| **Botão 3** | Esconde ou mostra o menu |
 
+## 🧪 Exemplo visual
 
-🎥 Botão 3: Alternar Menu
-"Câmera" – Mostrar/ocultar o menu de opções
-Ideal para uma gravação mais limpa sem distrações.
+### Controle de movimento
+![Controle](https://raw.githubusercontent.com/matheussouzadejesus10/automation-obs/refs/heads/main/Captura%20de%20tela%202025-06-14%20092949.png)
 
-![print3](https://raw.githubusercontent.com/matheussouzadejesus10/automation-obs/refs/heads/main/Captura%20de%20tela%202025-06-14%200929494.png)
+### Editor de Aparência
+![Editor](https://raw.githubusercontent.com/matheussouzadejesus10/automation-obs/refs/heads/main/Captura%20de%20tela%202025-06-14%200929493.png)
+
+### Alternar menu
+![Menu](https://raw.githubusercontent.com/matheussouzadejesus10/automation-obs/refs/heads/main/Captura%20de%20tela%202025-06-14%200929494.png)
+
+## 🛠️ Requisitos
+
+- Sistema: Windows 10+ ou navegador moderno (WebGL)
+- Processador: 1.5GHz+
+- Memória RAM: 2GB ou mais
+
+## 📩 Contribuição
+
+Quer ajudar? Sinta-se à vontade para abrir uma *issue* ou *pull request*!  
+Feito por [@matheus8910](https://github.com/matheussouzadejesus10) com ❤️
+
+## Notas e Créditos
+
+### criado por:[matheus souza 10 studios](https://scratch.mit.edu/users/matheussouza19/)
+### base do jogo:
+### jogo original:Automation Meme Template
+### de:[360Genius](https://scratch.mit.edu/users/360Genius/)
+---

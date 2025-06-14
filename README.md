@@ -20,7 +20,7 @@
 2. Extraia (se zipado) e execute o `.exe`.
 
 ### Web (MacOS/Linux)
-Acesse a versão web: [Abrir no navegador](#) <!-- substitua pelo link real -->
+Acesse a versão web: [Abrir no navegador](https://automation-obs-web.netlify.app/) <!-- substitua pelo link real -->
 
 ## 🎮 Controles
 

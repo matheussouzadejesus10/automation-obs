@@ -22,7 +22,7 @@
 ### Web (MacOS/Linux)
 Acesse a versão web: [Abrir no navegador](https://automation-obs-web.netlify.app/) <!-- substitua pelo link real -->
 
-## 💾 Baixar versão offline
+### 💾 Baixar versão offline
 
 Você pode baixar a versão offline do app em HTML:
 

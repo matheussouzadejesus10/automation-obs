@@ -1,4 +1,4 @@
-# 🎥 Automation-OBS
+# ![@matheus8910](logo.svg)
 
 **Automation-OBS** é um aplicativo leve e prático feito para gravações estilo VTuber, com animações simples e controle via teclado, mouse ou ponteiro virtual.
 

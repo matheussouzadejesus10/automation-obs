@@ -12,10 +12,10 @@ tecla"1","2" e "3":faces do personagem
 tecla"espaço"um efeito"zoom de perto"
 
 botao 1"usar ponteiro do mouse para mover o personagem" para mover o personagem com o mouse ou mover manualmente(usando ponteiro virtual de "x" e "y" ajustar pela orientaçao do usuario).
-
 ![print1](https://raw.githubusercontent.com/matheussouzadejesus10/automation-obs/refs/heads/main/Captura%20de%20tela%202025-06-14%20092949.png)
 
-botao2"editor"mudar cor da camisa e cabelo
+botao2"editor"mudar cor da camisa e cabelo.
+
 ![print2](https://raw.githubusercontent.com/matheussouzadejesus10/automation-obs/refs/heads/main/Captura%20de%20tela%202025-06-14%200929494.png)
 
 tecla"a" e "d" para mostra as maos.

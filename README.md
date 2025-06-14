@@ -20,5 +20,5 @@ botao2"editor"mudar cor da camisa e cabelo.
 tecla"a" e "d" para mostra as maos.
 
 botao3"camera"para desaparecer/aparecer o menu.
-![print3](https://raw.githubusercontent.com/matheussouzadejesus10/automation-obs/refs/heads/main/Captura%20de%20tela%202025-06-14%200929494.png)
+![print3]()
 

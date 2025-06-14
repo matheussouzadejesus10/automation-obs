@@ -13,6 +13,7 @@ tecla"espaço"um efeito"zoom de perto"
 
 botao 1"usar ponteiro do mouse para mover o personagem" para mover o personagem com o mouse ou mover manualmente(usando ponteiro virtual de "x" e "y" ajustar pela orientaçao do usuario).
 
+
 botao2"editor"mudar cor da camisa e cabelo
 
 tecla"a" e "d" para mostra as maos.

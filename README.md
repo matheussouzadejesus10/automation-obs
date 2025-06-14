@@ -15,9 +15,9 @@ botao 1"usar ponteiro do mouse para mover o personagem" para mover o personagem 
 ![print1](https://raw.githubusercontent.com/matheussouzadejesus10/automation-obs/refs/heads/main/Captura%20de%20tela%202025-06-14%20092949.png)
 
 botao2"editor"mudar cor da camisa e cabelo.
-
-![print2](https://raw.githubusercontent.com/matheussouzadejesus10/automation-obs/refs/heads/main/Captura%20de%20tela%202025-06-14%200929494.png)
+![print2](https://raw.githubusercontent.com/matheussouzadejesus10/automation-obs/refs/heads/main/Captura%20de%20tela%202025-06-14%200929493.png)
 
 tecla"a" e "d" para mostra as maos.
 
 botao3"camera"para desaparecer/aparecer o menu.
+![print3](https://raw.githubusercontent.com/matheussouzadejesus10/automation-obs/refs/heads/main/Captura%20de%20tela%202025-06-14%200929494.png)

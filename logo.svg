@@ -1,18 +1,13 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="442.03784" height="124.41172" viewBox="0,0,442.03784,124.41172">
-  <style type="text/css">
-    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
-
-    text {
-      font-family: 'Roboto', sans-serif;
-    }
-  </style>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" 
+     xmlns:xlink="http://www.w3.org/1999/xlink" 
+     width="442.03784" height="124.41172" viewBox="0,0,442.03784,124.41172">
   <g transform="translate(-18.98108,-116.29838)">
     <g data-paper-data="{&quot;isPaintingLayer&quot;:true}" fill-rule="nonzero" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" style="mix-blend-mode: normal">
       <g>
         <path d="M99.08318,221.02888v-101.73899h343.1197v101.73899z" fill="#2eff26" stroke="none" stroke-width="NaN" stroke-linecap="butt"/>
-        <text transform="translate(130.65533,158.35766) scale(0.99611,0.96688)" font-size="40" xml:space="preserve" fill="#ffffff" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-weight="normal" text-anchor="start" style="mix-blend-mode: normal">
+        <text transform="translate(130.65533,158.35766) scale(0.99611,0.96688)" font-size="40" xml:space="preserve" fill="#ffffff" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="Arial, Helvetica, sans-serif" font-weight="normal" text-anchor="start" style="mix-blend-mode: normal">
           <tspan x="0" dy="0">Automation</tspan>
-          <tspan x="0" dy="46.150000000000006px">obs</tspan>
+          <tspan x="0" dy="46.15px">obs</tspan>
         </text>
         <g>
           <path d="M376.18448,222.96668c0,0 -23.2548,-9.47531 -24.03668,-13.86525c-1.24857,-7.01026 -2.64717,-17.6914 -1.49097,-25.89071c2.02319,-14.34784 16.82367,-28.9229 16.99421,-29.03683c21.22142,-14.17776 26.97933,-15.33109 50.43592,-9.1629c2.9649,0.77966 6.50092,2.73185 10.08778,3.69532c17.78031,4.77605 19.68041,3.43976 22.06457,6.26857c1.90189,2.2566 5.4811,7.87949 7.69098,16.15037c2.06464,7.72741 3.60258,18.28349 2.92768,28.3345c-0.58106,8.65329 -3.17076,17.00302 -4.18035,22.02516c-0.64629,3.21494 -21.48735,4.38274 -21.48735,4.38274" fill="#000000" stroke="#505050" stroke-width="0" stroke-linecap="round"/>
@@ -28,3 +23,4 @@
     </g>
   </g>
 </svg>
+

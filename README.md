@@ -6,6 +6,7 @@ windows:
 web(para macos ou outros sistemas): 
 
 manual:
+
 tecla"1","2" e "3":faces do personagem
 
 tecla"espaço"um efeito"zoom de perto"
